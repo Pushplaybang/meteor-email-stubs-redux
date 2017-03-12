@@ -1,0 +1,25 @@
+{
+  "name": "meteor-email-stub-redux",
+  "version": "0.3.0",
+  "description": "Allows you to inspect sent emails and assert on their content",
+  "main": "email.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pushplaybang/meteor-email-stubs-redux.git"
+  },
+  "keywords": [
+    "meteor",
+    "testing",
+    "stubs",
+    "email"
+  ],
+  "author": "Paul van Zyl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Pushplaybang/meteor-email-stubs-redux/issues"
+  },
+  "homepage": "https://github.com/Pushplaybang/meteor-email-stubs-redux#readme"
+}
